@@ -1,7 +1,10 @@
 
 Here is the Test tasks.
+
 For all test cases please mark the time used for solving it.
+
 If you will fail on some task, it is OK, just let us know. 
+
 In case you have questions, we will answer them with pleasure.
 
 
@@ -17,14 +20,20 @@ Given the program file_manager.php (see email attach), which works as a file bro
 Briefly explain afterwards how the solution was found.
 
 ### Test No. 3. Some from the finance domain (Loan Calculator)
+
 Write a loan calculator script using PHP and Javascript (you can use any JS third-party libraries  / php-frameworks):
+
 
 The client enters the loan amount, indicates the loan period in months and the interest rate, also the date of the first payment. The script displays a table with a payment schedule in the following format:
 Payment number, Payment date, Principal debt, interest, total amount, remaining debt
 Type of payment - annuity.
 
+
 The history of calculations is stored in MySQL
+
 Architecture: frontend / backend, transfer data – by Ajax.
+
+
 
 If you will fail on some task, it is OK, just let us know. 
 In case you have questions, we will answer them with pleasure.
