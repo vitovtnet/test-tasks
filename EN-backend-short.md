@@ -1,11 +1,10 @@
+# Aventus Group 
 
-Here is the Test tasks.
+Here is the Test tasks for backend PHP developers. 
 
-For all test cases please mark the time used for solving it.
-
-If you will fail on some task, it is OK, just let us know. 
-
-In case you have questions, we will answer them with pleasure.
+* For all test cases please mark the time used for solving it.
+* If you will fail on some task, it is OK, just let us know. 
+* In case you have questions, we will answer them with pleasure.
 
 
 ### Test No. 1. Some logical task
