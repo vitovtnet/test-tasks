@@ -14,7 +14,7 @@ PHP script has to read the text and replace each word in it, position of which i
 
 ### Test No. 2. Some debugging task
 
-Given the program file_manager.php (see email attach), which works as a file browser (shows what files and directories are in the same directory as the program). However, for unknown reasons, the script in the file file_manager.php begins to slow down very much with a large number of files (more than 20). It is necessary for you to determine which function is working slowly, and to specify exactly what is so negatively affecting the running time of the program.
+Given the program [file_manager.php](https://github.com/vitovtnet/test-tasks/blob/master/file_manager.zip), which works as a file browser (shows what files and directories are in the same directory as the program). However, for unknown reasons, the script in the file file_manager.php begins to slow down very much with a large number of files (more than 20). It is necessary for you to determine which function is working slowly, and to specify exactly what is so negatively affecting the running time of the program.
 
 Briefly explain afterwards how the solution was found.
 
