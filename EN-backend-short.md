@@ -8,7 +8,7 @@ Here is the Test tasks for backend PHP developers.
 
 
 ### Test No. 1. Some logical task
-Generate a random text in a separate fail (generated fail should be added, content is irrational, encoding UTF-8).
+Generate a random text in a separate file (generated fail should be added, content is irrational, encoding UTF-8).
 PHP script has to read the text and replace each word in it, position of which is divided by 3 without a remainder by word -THREE-, then replace each word in it, position of which is divided by 5 without a remainder by word -FIVE-, and if position of the word is divided by both 3 and 5 without a reminder, replace it by word -FIFTEEN-. After running the script result has to be saved in a separate fail. 
 
 
