@@ -30,7 +30,9 @@ Type of payment - annuity.
 
 The history of calculations is stored in MySQL
 
-Architecture: frontend / backend, transfer data – by Ajax.
+Architecture: frontend / backend (Symfony or any framework).
+
+Upload you project to github / bitbucket
 
 
 
